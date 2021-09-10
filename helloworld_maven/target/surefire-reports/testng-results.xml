@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="helloworld_maven.TestHelloWorld" duration-ms="11837" started-at="2021-09-09T15:59:47 AEST" finished-at="2021-09-09T15:59:59 AEST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11837" started-at="2021-09-09T15:59:47 AEST" finished-at="2021-09-09T15:59:59 AEST">
+      <class name="helloworld_maven.TestHelloWorld">
+        <test-method status="PASS" signature="testHelloWorld()[pri:0, instance:helloworld_maven.TestHelloWorld@5f9d02cb]" name="testHelloWorld" duration-ms="11796" started-at="2021-09-09T15:59:47 AEST" finished-at="2021-09-09T15:59:58 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHelloWorld -->
+      </class> <!-- helloworld_maven.TestHelloWorld -->
+    </test> <!-- Command line test -->
+  </suite> <!-- helloworld_maven.TestHelloWorld -->
+</testng-results>
